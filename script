@@ -1,0 +1,26 @@
+# Premier script Python
+
+# Affichage d'un message de bienvenue
+print("Bienvenue dans mon premier script Python!")
+
+# Demande à l'utilisateur de saisir son nom
+nom = input("Quel est votre nom? ")
+
+# Affichage d'un message personnalisé
+print("Bonjour, " + nom + "!")
+
+# Demande à l'utilisateur de saisir son âge
+age = input("Quel est votre âge? ")
+
+# Calcul de l'âge dans 10 ans
+age_dans_10_ans = age + 10
+
+# Affichage de l'âge dans 10 ans
+print("Dans 10 ans, vous aurez " + age_dans_10_ans + " ans.")
+
+# Message de fin
+print("Merci d'avoir utilisé mon script!")
+
+##############################################################
+# ça marche pas, demander à une IA si thébas ne trouve pas
+##############################################################
