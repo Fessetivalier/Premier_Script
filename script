@@ -20,6 +20,7 @@ print("Dans 10 ans, vous aurez " + age_dans_10_ans + " ans.")
 
 # Message de fin
 print("Merci d'avoir utilisé mon script!")
+print("Mon prochain projet sera de développé l'outil unzip !")
 
 ##############################################################
 # ça marche pas, demander à une IA si thébas ne trouve pas
